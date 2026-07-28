@@ -1,0 +1,4 @@
+gcc -Iinclude src/main.c src/getch.c src/ungetch.c src/stack.c -o calculator
+
+
+-Iinclude (include this if we relative routes are not used)
