@@ -8,7 +8,6 @@ int main(){
     int lower = 0; //lower limit in celsius
     int upper = 100; //Upper   "   "    "
     int step = 10;
-s
     int celsius = lower;
     float fahr;
     printf("ºC\tºF\n"); // A "HEAD"
